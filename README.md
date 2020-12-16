@@ -4,7 +4,7 @@
 
 <h2 align="center">A passionate frontend developer from Brazil</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="align="center"">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="align:center;>
 
 - ☁️ I’m currently searching for my first job ...
 - 🌱 I’m currently learning **UX/UI Desingn and Web Development.**
