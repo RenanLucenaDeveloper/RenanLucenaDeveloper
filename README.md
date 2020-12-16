@@ -1,13 +1,13 @@
-# Hi there, I'm Renan Lucena 👋
+<h1 align="center">Hi there, I'm Renan Lucena 👋<h1/>
 
 ---
 
-## A passionate frontend developer from Brazil
+<h2 align="center">A passionate frontend developer from Brazil</h2>
 
-![Image](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="align="center"">
 
 - ☁️ I’m currently searching for my first job ...
-- 🌱 I’m currently learning UX/UI Desingn and Web Development.
+- 🌱 I’m currently learning **UX/UI Desingn and Web Development.**
 - 💬 Ask me about **HTML**, **CSS**, **Javascript**, **Figma & Adobe XD**
 - 📫 How to reach me [Link](ReEnanDeveloper@hotmail.com)
 
