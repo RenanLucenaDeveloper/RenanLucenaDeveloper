@@ -19,6 +19,8 @@
   <img src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" alt="Adobe XD" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador iuriCode">
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanLucenaDeveloper&show_icons=true&theme=default)
