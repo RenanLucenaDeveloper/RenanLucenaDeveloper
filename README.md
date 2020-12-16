@@ -8,7 +8,7 @@
 - ☁️ I’m currently searching for my first job ...
 - 🌱 I’m learning **UX/UI Desingn and Web Development.**
 - 💬 Ask me about **HTML**, **CSS**, **Javascript**, **Figma & Adobe XD**
-- 📫 How to reach me [Link](ReenanDeveloper@hotmail.com)
+- 📫 How to reach me ReenanDeveloper@hotmail.com
 
 <p align="left">Languages and tools:</p>
 
