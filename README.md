@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Renan Lucena 👋<h1/>
-<h2 align="center" margin-bottom="20px">A passionate frontend developer from Brazil</h2>
+<h2 align="center">A passionate frontend developer from Brazil</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
