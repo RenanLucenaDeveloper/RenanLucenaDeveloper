@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan Lucena</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/RenanLucenaDeveloper=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/RenanLucenaDeveloperryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
