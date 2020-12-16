@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=RenanLucenaDeveloper&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=RenanLucenaDeveloper&row=1&column=6" />
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
