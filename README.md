@@ -1,4 +1,4 @@
-<h1 align="center">Olá 🤘🏼, Sou Renan Lucena</h1>
+<h1 align="center">Olá 👋, Sou Renan Lucena</h1>
 <h3 align="center">Bem vindo ao meu perfil</h3>
 
 - ☁️ Atualmente um Front end Freelancer
