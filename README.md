@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou Renan Lucena</h1>
 <h3 align="center">Bem vindo ao meu perfil</h3>
 
-- ☁️ Fron-end React
+- ☁️ Front-end React
 - 🌱 Aprofundando em **React Native**
 - 💬 Ask me about **Typescript**, **React**, **StyledComponents** and **SASS**
 - 📫 Entre em contato comigo: ReenanDeveloper@hotmail.com
