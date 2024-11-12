@@ -3,7 +3,7 @@
 
 - ☁️ Front-end Angular
 - 🌱 Aprofundando em **Ionic**
-- 💬 Ask me about **Typescript**, **Angular**, **Nest** and **SASS**
+- 💬 Ask me about **Typescript**, **Angular**, **Nest** and **SCSS**
 - 📫 Entre em contato comigo: ReenanDeveloper@hotmail.com
 - 🤝 portfólio: https://renanlucenadeveloper.github.io/React-Portfolio/
 
