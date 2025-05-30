@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Sou Renan Lucena</h1>
 <h3 align="center">Bem vindo ao meu perfil</h3>
 
-- ☁️ Front-end Angular
-- 🌱 Aprofundando em **Ionic**
-- 💬 Ask me about **Typescript**, **Angular**, **Nest** and **SCSS**
+- ☁️ **Web dev** focado em Frontend
+- 🌱 Aprofundando em **Data Estructures, Algorítimos e Arquitetura**
+- 💬 Ask me about **Javascrpit** and **Typescript**
 - 📫 Entre em contato comigo: ReenanDeveloper@hotmail.com
 - 🤝 portfólio: https://renanlucenadeveloper.github.io/React-Portfolio/
 
